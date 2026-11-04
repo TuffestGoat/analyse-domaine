@@ -44,12 +44,12 @@ J'apprécie le multimédia grâce aux nouveautés que on m'introduit à particip
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/25d498d4-ff5a-44ad-8bde-0eb7846454ec" />
 
-(source de l'image : [...](https://static-wordpress.akamaized.net/montreal.ubisoft.com/wp-content/uploads/2025/08/14134008/MOD2025_Group-Picture-600x400.jpg))
+(source de l'image : google)
 
-- Types de produits et de services : ...
-- Étapes de production : ...
-- Type d'emploi visé : ...
-- Étapes pour obtenir cet emploi : ...
+- Types de produits et de services : Ceux-ci offrent leurs créations de jeux-vidéo pour plusieurs plateformes commes pc, xbox, playstation, etc. De plus ils ont des abonnements possible à ce procuré, comme ubisoft classics exemple.
+- Étapes de production : Il recherche la définition du concept visuel, le mandat du projet, évaluent les outils nécessaire, testent les environs du jeu, crée le jeux (phase alpha, phase bêta et master) puis valid la fin pour publier leur exploit.
+- Type d'emploi visé : animateurs 2D/3D, artiste 2D/3D, designer graphiste, testeur de jeux vidéo, codeur, producteur, éditeur et plus encore.
+- Étapes pour obtenir cet emploi : Choisir le poste que l'on veut s'appliquer, préparer son cv, avoir un bon portfolio.
 
 ## Conclusion
 

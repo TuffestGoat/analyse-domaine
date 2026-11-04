@@ -14,25 +14,25 @@
 | Domaine | Intérêt | Pourquoi |
 J'apprécie le multimédia grâce aux nouveautés que on m'introduit à participé, surtout dans l'intérêt artistique.
 | Graphisme | très intéresser | j'aime représenter visuellement du contenu ayant le pouvoir d'influencer les gens dans leurs quotidiens, exemple leur faire apprécier un site grâce a l'effort mis esthétiquement au lieu que ce soit simplement fonctionnel et déplaisent a regarder. |
-| Vidéo et animation 2D | beaucoup d'intérêt | ceci est mon centre d'intérêt, la raison principal d'avoir choisi cette technique, ayant un but plus artistique j'adore ramener des images à la vie et leur donné un but a représenter visuellement, comme un bande annonce qui focus une animation pour but de rajouter de l'intérêt dans leur produit |
-| 3D | beaucoup d'intéret | ... |
-| Web | quand même intéresser | ... |
-| Jeux vidéo | beaucoup d'intéret | ... |
-| Développement logiciel | quand même intéresser | ... |
+| Vidéo et animation 2D | beaucoup d'intérêt | ceci est mon centre d'intérêt, la raison principal d'avoir choisi cette technique, ayant un but plus artistique j'adore ramener des images à la vie et leur donné un but a représenter visuellement, comme un bande annonce qui focus une animation pour but de rajouter de l'intérêt dans leur produit ou crée des histoires visuelles ayant la capacité de donner l'impression d'être en vie. |
+| 3D | beaucoup d'intérêt | comme le 2D, j'apprécie aussi le 3D, avoir la possibilité de rendre une idée visuel en trois dimension est aussi dans mon intérêt profond, crée des arrière-plans ou des modèles résonne aussi dans mes intension lors de mon choix pour cette technique. |
+| Web | quand même intéresser | ce n'ai pas nécessairement le centre de mon intérêt, mais c'est certainement intéressant à en apprendre d'avantages. Avoir la possibilité de codé des sites, des jeux des applications et plus encore m'intrigue et je m'intéresse au sujet de plus en plus. |
+| Jeux vidéo | beaucoup d'intérêt | crée du contenu pour que les gens puisse interagir avec et ressentir des sentiments positifs d'accomplissement et bonheur me rend heureuse aussi. Il y a plusieurs idées dans ma tête que j'aimerais bien ramener à la vie, de plus participer derrière les scènes des jeux vidéos que plusieurs personnes utiliseront certainement donne une impression d'être accomplie. |
+| Développement logiciel | quand même intéresser | comme le web, pas nécessairement le centre de mon intérêt, mais je recherche à en apprendre plus puis m'indulger au sujet. Je suis certaine que cela m'intéressera. |
 | Installations et expériences immersives | très intéresser | ... |
 
 ## Mes 2 domaines préférés
 
-### Domaine 1 : ...
+### Domaine 1 : animation 2D/3D
 
-- Expérience : ...
-- Logiciels et outils : ...
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Expérience : peu d'expérience, je vais me pratiquer plus dans le sujet lorsque j'aurais accès aux outils. Pour l'instant, je n'utilise que mon cellulaire pour crée quelques animations, mais rien d'extraordinaire. 
+- Logiciels et outils : Je n'ai qu'un cellulaire et un ordi en disposition, je compte m'acheter une tablet à dessiner et d'apprendre plus sur les logiciels que l'on à besoin pour animer.
+- Pourquoi il m'intéresse : j'adore dessiner, et l'idée d'avoir le talent de ramener des personnages à la vie, leur données raison, des personnalités, des but m'intéresse énormément. 
+- Travailler dans ce domaine : Je souhaite travailler dans un studio pour des créations de séries, films ou jeux vidéos. J'aimerais bien contribuer dans les scènes d'animation, modélisation ou les storyboards.
 
-### Domaine 2 : ...
+### Domaine 2 : designer graphique
 
-- Expérience : ...
+- Expérience : de ce moment, aucun. Je souhaite en apprendre plus d'avantage lors de mon parcours dans cette technique.
 - Logiciels et outils : ...
 - Pourquoi il m'intéresse : ...
 - Travailler dans ce domaine : ...

@@ -33,18 +33,18 @@ J'apprécie le multimédia grâce aux nouveautés que on m'introduit à particip
 ### Domaine 2 : designer graphique
 
 - Expérience : de ce moment, aucun. Je souhaite en apprendre plus d'avantage lors de mon parcours dans cette technique.
-- Logiciels et outils : ...
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Logiciels et outils : je crois avoirs les outils nécessaires, c'est un travail qui peu être physique et sur ordinateur. Je vais assumer que ce sera sur l'ordinateure
+- Pourquoi il m'intéresse : j'adore dessiner, alors c'est un concept que j'aime bien. Pour but d'aider à ramener un visuel au projet demandé j'aimerais bien participé dans ce domaine. 
+- Travailler dans ce domaine : je contribuerais a crée des exemples visuels lorsque qu'on a besoin d'avoir une idée quand on travail sur un projet demandant la tâche. 
 
 ## Les caractéristiques de mon domaine préféré
 
-- Types d'entreprises : ...
-- Exemple d'entreprise : ...
+- Types d'entreprises : des entreprises a jeux vidéos, des studios d'animations, des entreprises ayant besoin de graphique designer, etc.
+- Exemple d'entreprise :  Glitch studio, Ubisoft, Gameloft, nintendo, DreamWorks animation, Studio Ghibii
 
-![Nom de l'entreprise](entreprise.jpg)
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/25d498d4-ff5a-44ad-8bde-0eb7846454ec" />
 
-(source de l'image : ...)
+(source de l'image : [...](https://static-wordpress.akamaized.net/montreal.ubisoft.com/wp-content/uploads/2025/08/14134008/MOD2025_Group-Picture-600x400.jpg))
 
 - Types de produits et de services : ...
 - Étapes de production : ...
@@ -53,10 +53,10 @@ J'apprécie le multimédia grâce aux nouveautés que on m'introduit à particip
 
 ## Conclusion
 
-- Mon profil en une phrase : ...
-- Ce qui m'a surpris : ...
-- Ma force principale et la faiblesse à travailler : ...
-- Mon action d'ici la fin de la session : ...
+- Mon profil en une phrase : Je suis quelqu'un avec plusieurs années d'expériences scolaires dans le domaines du multimédia, je recherche des histoires à représenter visuellement à travers l'animation et de représenter le visuel nécessaire pour accomplir les tâches demandés. 
+- Ce qui m'a surpris : mon désintérais pour le côté plus technique, comme web. Mais je crois pouvoir m'intéreser plus dans le future.
+- Ma force principale et la faiblesse à travailler : Mes tendance artistiques ce démarque plus dans le domaines, avec ma persévérance au sujet. Par contre je recherche a retravailler ma concentration, car je ne souhaite pas à devoir demander des questions souvent à cause de ma négligence à prendre attention aux consignes expliqués ou demandés. 
+- Mon action d'ici la fin de la session : commencer à crée d'avantages des animations 2D, que ce soit des petites vidéos ou des storyboards. Mais je veux avoir une animation complète d'ici la fin de la session.
 
 ## Ma capsule
 

@@ -19,7 +19,7 @@ J'apprécie le multimédia grâce aux nouveautés que on m'introduit à particip
 | Web | quand même intéresser | ce n'ai pas nécessairement le centre de mon intérêt, mais c'est certainement intéressant à en apprendre d'avantages. Avoir la possibilité de codé des sites, des jeux des applications et plus encore m'intrigue et je m'intéresse au sujet de plus en plus. |
 | Jeux vidéo | beaucoup d'intérêt | crée du contenu pour que les gens puisse interagir avec et ressentir des sentiments positifs d'accomplissement et bonheur me rend heureuse aussi. Il y a plusieurs idées dans ma tête que j'aimerais bien ramener à la vie, de plus participer derrière les scènes des jeux vidéos que plusieurs personnes utiliseront certainement donne une impression d'être accomplie. |
 | Développement logiciel | quand même intéresser | comme le web, pas nécessairement le centre de mon intérêt, mais je recherche à en apprendre plus puis m'indulger au sujet. Je suis certaine que cela m'intéressera. |
-| Installations et expériences immersives | très intéresser | ... |
+| Installations et expériences immersives | très intéresser | j'adore représenter des choses que l'on peut capter visuellement, alors c'est aussi de quoi que j'apprécies pour autant, crée des sentiments avec le son aussi m'indulge dans le sujet. |
 
 ## Mes 2 domaines préférés
 

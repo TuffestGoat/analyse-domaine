@@ -2,25 +2,24 @@
 
 ## Découverte de soi
 
-- Mes forces : ...
-    - Exemple : ...
-- Mes faiblesses ou points à améliorer : ...
-    - Exemple : ...
-- Seul(e) ou en équipe : ...
-    - Pourquoi et exemple : ...
-- Plutôt technique ou créatif : ...
-
+- Mes forces : j'ai un esprit ouvert pour divers différents cheminement que l'on pourrait utilisé dans certains projets, je reconnais la participation de tous étant importante et recherche à ramener les gens à travailler en équipe, autant que je suis capable d'être autonome avec mes tâches et besoins sans l'appuis de quelqu'un d'autre. De plus je crée plusieurs pièces artistiques de modèles 
+    - Exemple : Je donne plusieurs idées, exemples, thèmes que l'on peut explorer au besoin
+- Mes faiblesses ou points à améliorer : mon attention envers les détails appliquer dans les discutions, où je devrais avoir plus de focus. Pourquoi je retiens en grande partie les informations grâce aux notes que je m'écris régulièrement.
+    - Exemple : en écoutant quelqu'un parlé durant un présentation, je ne retient pas nécessairement tous leur explications, alors je me prend des notes, ainsi je suis capable de retourné sur le sujet au besoin.
+- Seul(e) ou en équipe : je suis assez flexible en tant que personne, j'ai une petite préférence pour travailler seul mais cela ne m'empêche pas d'aimer participer en équipe. N'importe quel tâche nécessitant d'être seul ou accompagner ne m'affecte pas, je suis disponibles à n'importe quel possibilité.
+    - Pourquoi et exemple : Selon moi travailler seul me permet d'être plus à l'aise au milieu du travail, j'aime avoir ma propre bulle et géré mes propres tâches à faire. Par contre cela ne m'empêche pas d'apprécier de la compagnie puis de participer en équipe. Interagir avec de nouveaux visages et apprendre la perception de quelqu'un d'autre est très utile aussi.
+- Plutôt technique ou créatif : Je me considère une personne plus créatif que technique, mon esprit est sans fin et j'imagine plusieurs situations, créations et des mondes régulièrement à chaque journée. J'illustre souvent mes pensées dans l'art et recherche de la nouveauté à explorer. 
 ## Exploration des domaines
 
 | Domaine | Intérêt | Pourquoi |
-|---|---|---|
-| Graphisme | ... | ... |
-| Vidéo et animation 2D | ... | ... |
-| 3D | ... | ... |
-| Web | ... | ... |
-| Jeux vidéo | ... | ... |
-| Développement logiciel | ... | ... |
-| Installations et expériences immersives | ... | ... |
+J'apprécie le multimédia grâce aux nouveautés que on m'introduit à participé, surtout dans l'intérêt artistique.
+| Graphisme | très intéresser | j'aime représenter visuellement du contenu ayant le pouvoir d'influencer les gens dans leurs quotidiens, exemple leur faire apprécier un site grâce a l'effort mis esthétiquement au lieu que ce soit simplement fonctionnel et déplaisent a regarder. |
+| Vidéo et animation 2D | beaucoup d'intérêt | ceci est mon centre d'intérêt, la raison principal d'avoir choisi cette technique, ayant un but plus artistique j'adore ramener des images à la vie et leur donné un but a représenter visuellement, comme un bande annonce qui focus une animation pour but de rajouter de l'intérêt dans leur produit |
+| 3D | beaucoup d'intéret | ... |
+| Web | quand même intéresser | ... |
+| Jeux vidéo | beaucoup d'intéret | ... |
+| Développement logiciel | quand même intéresser | ... |
+| Installations et expériences immersives | très intéresser | ... |
 
 ## Mes 2 domaines préférés
 

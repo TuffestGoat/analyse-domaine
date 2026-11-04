@@ -2,8 +2,8 @@
 
 ## Découverte de soi
 
-- Mes forces : j'ai un esprit ouvert pour divers différents cheminement que l'on pourrait utilisé dans certains projets, je reconnais la participation de tous étant importante et recherche à ramener les gens à travailler en équipe, autant que je suis capable d'être autonome avec mes tâches et besoins sans l'appuis de quelqu'un d'autre. De plus je crée plusieurs pièces artistiques de modèles, c'est ;a dire que je peu représenter plusieurs choses visuellement.
-    - Exemple : Je donne plusieurs idées, exemples, thèmes que l'on peut explorer au besoin
+- Mes forces : j'ai un esprit ouvert pour divers différents cheminement que l'on pourrait utilisé dans certains projets, je reconnais la participation de tous étant importante et recherche à ramener les gens à travailler en équipe, autant que je suis capable d'être autonome avec mes tâches et besoins sans l'appuis de quelqu'un d'autre. De plus je crée plusieurs pièces artistiques de modèles, c'est à dire que je peu représenter plusieurs choses visuellement.
+    - Exemple : Je donne plusieurs idées, exemples, thèmes que l'on peut explorer au besoin et je peu dessiner des personnages, constructions, paysages et plus encore.
 - Mes faiblesses ou points à améliorer : mon attention envers les détails appliquer dans les discutions, où je devrais avoir plus de focus. Pourquoi je retiens en grande partie les informations grâce aux notes que je m'écris régulièrement.
     - Exemple : en écoutant quelqu'un parlé durant un présentation, je ne retient pas nécessairement tous leur explications, alors je me prend des notes, ainsi je suis capable de retourné sur le sujet au besoin.
 - Seul(e) ou en équipe : je suis assez flexible en tant que personne, j'ai une petite préférence pour travailler seul mais cela ne m'empêche pas d'aimer participer en équipe. N'importe quel tâche nécessitant d'être seul ou accompagner ne m'affecte pas, je suis disponibles à n'importe quel possibilité.

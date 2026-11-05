@@ -60,4 +60,6 @@ J'apprécie le multimédia grâce aux nouveautés que on m'introduit à particip
 
 ## Ma capsule
 
-![Mon interface OBS](obs.png)
+
+
+

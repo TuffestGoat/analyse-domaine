@@ -60,6 +60,7 @@ J'apprécie le multimédia grâce aux nouveautés que on m'introduit à particip
 
 ## Ma capsule
 
+<img width="1663" height="1247" alt="image" src="https://github.com/user-attachments/assets/d01961d6-69c8-4367-be40-600fedbe1d2b" />
 
 
 
